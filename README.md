@@ -7,10 +7,6 @@
   <a href="https://x.com/capakupa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-363a4f?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-
-  <a href="https://www.reddit.com/user/AlarmingParty7741/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
   
   <a href="mailto:huicanvie2014@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-363a4f?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
