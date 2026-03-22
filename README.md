@@ -4,7 +4,7 @@
 
   <!-- 所有按钮统一使用一种高级灰 (Hex: #363a4f) -->
   
-  <a href="https://x.com/capakupa" target="_blank">
+  <a href="https://x.com/0xCanvie" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-363a4f?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   
