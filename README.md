@@ -9,7 +9,7 @@ I bring **15+ years of enterprise software engineering and architecture** experi
 
 ### 🛡️ Security & Audit Achievements
 
-* **CodeHawks First Flights:** Accumulated **1220 points** with **16 Valid Findings (11 High, 5 Medium)**. Currently ranked **Top 200** on the First Flights leaderboard.
+* **CodeHawks First Flights:** Accumulated **1422 points** with **19 Valid Findings (13 High, 5 Medium，1 Low)**. Currently ranked **Top 150** on the First Flights leaderboard.
 * **DEX Architecture:** Core contributor to a startup DEX, designing extreme defensive programming constraints, AMM state machine convergence, and reentrancy protections.
 * **Methodology:** Enterprise-grade threat modeling + Yul-level memory manipulation + Strict Foundry invariant testing.
 
