@@ -3,6 +3,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
 [![Email](https://img.shields.io/badge/Email-huicanvie2014@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huicanvie2014@gmail.com)
 
+[View my CodeHawks ranking here](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
+
 **Web3 Security Researcher & Smart Contract Architect**
 
 I bring **15+ years of enterprise software engineering and architecture** experience into the Web3 space. My focus is on defensive smart contract architecture, EVM memory-level security (Yul), and rigorous state machine verification.
