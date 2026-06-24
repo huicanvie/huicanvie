@@ -1,4 +1,4 @@
-# Hi there 👋 I am Canvie (@0xCanvie)
+# Hi 👋 I am Canvie (@0xCanvie)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
 [![Email](https://img.shields.io/badge/Email-huicanvie2014@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huicanvie2014@gmail.com)
