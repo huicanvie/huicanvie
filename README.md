@@ -7,7 +7,7 @@
 
 **Web3 Security Researcher & Smart Contract Architect**
 
-I bring **15+ years of enterprise software engineering and architecture** experience into the Web3 space. My focus is on defensive smart contract architecture, EVM memory-level security (Yul), and rigorous state machine verification.
+My focus is on defensive smart contract architecture, EVM memory-level security (Yul), and rigorous state machine verification.
 
 ### 🛡️ Security & Audit Achievements
 
@@ -24,7 +24,7 @@ I bring **15+ years of enterprise software engineering and architecture** experi
 ### 🛠️ Tech Stack & Arsenal
 
 * **Smart Contracts:** Solidity, Yul / EVM Assembly
-* **Security & Testing:** Foundry (Fuzzing & Invariant Testing), Hardhat
+* **Security & Testing:** Foundry (Fuzzing & Invariant Testing)
 * **Infrastructure:** Node.js, Java (Enterprise Master-Slave Architecture)
 * **Core Focus:** Economic Integrity, Storage Slot Isolation (ERC-7201), Defensive State Machines
 
