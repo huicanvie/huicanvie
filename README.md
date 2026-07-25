@@ -15,18 +15,10 @@ My focus is on defensive smart contract architecture, EVM memory-level security 
 * **DEX Architecture:** Core contributor to a startup DEX, designing extreme defensive programming constraints, AMM state machine convergence, and reentrancy protections.
 * **Methodology:** Enterprise-grade threat modeling + Yul-level memory manipulation + Strict Foundry invariant testing.
 
-### 🔭 Currently Working On
-
-* Continuously participate in relevant audit competitions on mainstream platforms.
-* Delve into the Underlying Logic of DeFi.
-* Deep diving into pure Yul for extreme gas savings and EVM memory exploitation (e.g., Ethernaut in pure Yul).
-
 ### 🛠️ Tech Stack & Arsenal
 
 * **Smart Contracts:** Solidity, Yul / EVM Assembly
 * **Security & Testing:** Foundry (Fuzzing & Invariant Testing)
-* **Infrastructure:** Node.js, Java (Enterprise Master-Slave Architecture)
-* **Core Focus:** Economic Integrity, Storage Slot Isolation (ERC-7201), Defensive State Machines
 
 ---
 *Open to full-time Web3 Security & Smart Contract roles. Let's build unbreakable protocols.*
