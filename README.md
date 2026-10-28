@@ -1,7 +1,8 @@
 # Hi 👋 I am Canvie (@0xCanvie)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
-[![Email](https://img.shields.io/badge/Email-huicanvie2014@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huicanvie2014@gmail.com)
+[![X](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
+[![Email](https://img.shields.io/badge/Email-huicanvie2014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huicanvie2014@gmail.com)
+[![CodeHawks](https://img.shields.io/badge/CodeHawks-1422_XP_Auditor-F5A623?style=for-the-badge&logo=ethereum&logoColor=white)](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
 
 [View my CodeHawks ranking here](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
 
