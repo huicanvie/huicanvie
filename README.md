@@ -3,13 +3,10 @@
 [![X](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
 [![CodeHawks](https://img.shields.io/badge/CodeHawks-1422_XP_Auditor-F5A623?style=for-the-badge&logo=ethereum&logoColor=white)](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
 
-[View my CodeHawks ranking here](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
-
 > **Smart Contract Auditor & EVM Security Architect**  
 > *Focusing on defensive smart contract architecture, EVM memory-level security (Yul), and rigorous state machine verification.*
 
 ---
-
 
 ### 🔥 How I Can Help Your Protocol (Services)
 
@@ -19,11 +16,4 @@
 
 ---
 
-### 🏆 Security & Audit Achievements
-
-* **🥊 CodeHawks:** Accumulated **1422 points** 
-* **🏦 DEX Architecture:** Core contributor to a startup DEX, designing extreme defensive programming constraints, AMM state machine convergence, and reentrancy protections.
-* **🔬 Methodology:** Enterprise-grade threat modeling + Yul-level memory manipulation + Strict Foundry invariant testing.
-
----
 📫 **Open to Full-time/Part-time Web3 Security Roles, Freelance Smart Contract Development, and Independent Audits.** 
