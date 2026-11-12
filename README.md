@@ -1,6 +1,5 @@
 # I am Canvie (@0xCanvie)
 
-[![X](https://img.shields.io/badge/Twitter-@0xCanvie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xCanvie)
 [![CodeHawks](https://img.shields.io/badge/CodeHawks-1422_XP_Auditor-F5A623?style=for-the-badge&logo=ethereum&logoColor=white)](https://codehawks.cyfrin.io/leaderboard?page=1&r=12-months&s=Canvie&sc=xp&t=contests)
 
 > **Smart Contract Auditor & Solidity Security Engineer**  
